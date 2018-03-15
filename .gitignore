@@ -56,3 +56,5 @@ java
 package-lock.json
 *.wasm
 *.wast
+*.exe
+*.obj
